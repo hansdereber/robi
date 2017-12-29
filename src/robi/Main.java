@@ -1,5 +1,8 @@
 package robi;
 
+import lejos.hardware.lcd.LCD;
+import lejos.utility.Delay;
+
 public class Main {
 
 	public static void main(String[] args) {
